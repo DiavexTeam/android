@@ -501,5 +501,5 @@
   
   <!-- Devices -->
   <project path="device/samsung/maguro" name="DiavexTeam/android_device_samsung_maguro" revision="cm-11.0" />
-   <project path="kernel/samsung/tuna" name="DiavexTeam/android_kernel_samsung_tuna" revision="cm-11.0" />
+   <project path="device/samsung/tuna" name="DiavexTeam/android_kernel_samsung_tuna" revision="cm-11.0" />
 </manifest>
